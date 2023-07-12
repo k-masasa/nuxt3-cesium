@@ -1,5 +1,6 @@
 <template>
-  <div>
-    page!!!
-  </div>
+  test
 </template>
+
+<script setup lang="ts">
+</script>
